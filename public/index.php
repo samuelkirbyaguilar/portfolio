@@ -15,7 +15,7 @@ define('LARAVEL_START', microtime(true));
  */
 $APP_ROOT_DIR = (ENVIRONMENT == 'development') ?
     __DIR__.'/..' :
-    __DIR__.'/../../../../portfolio';
+    __DIR__.'/../../../../portfolio_core';
 
 /*
 |--------------------------------------------------------------------------
