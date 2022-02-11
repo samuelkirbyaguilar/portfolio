@@ -13,3 +13,8 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+
+# own files
+/scripts
+sample.env.php
+/public/env.php
